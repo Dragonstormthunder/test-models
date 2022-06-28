@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wind Canyon
+* source:	https://sketchfab.com/3d-models/wind-canyon-90fb8498144d42839b2f973bed1bf823
+* author:	bilgehan.korkmaz (https://sketchfab.com/bilgehan.korkmaz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wind Canyon" (https://sketchfab.com/3d-models/wind-canyon-90fb8498144d42839b2f973bed1bf823) by bilgehan.korkmaz (https://sketchfab.com/bilgehan.korkmaz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
